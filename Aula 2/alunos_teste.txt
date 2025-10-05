@@ -1,0 +1,7 @@
+João,8,7.5,9
+Maria,10,9,8
+Pedro,6,5,7
+Ana,7,7,7
+Lucas,9,10,10
+Sofia,abc,8,9
+Carlos,11,7,6

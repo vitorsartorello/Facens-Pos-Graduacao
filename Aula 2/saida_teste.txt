@@ -1,0 +1,6 @@
+10.0: Positivo
+-5.0: Negativo
+0.0: Zero
+3.7: Positivo
+-2.3: Negativo
+0.0: Zero

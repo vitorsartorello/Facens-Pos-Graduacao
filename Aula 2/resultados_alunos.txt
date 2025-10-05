@@ -1,0 +1,5 @@
+João: Aprovado
+Maria: Aprovado
+Pedro: Reprovado
+Ana: Aprovado
+Lucas: Aprovado
