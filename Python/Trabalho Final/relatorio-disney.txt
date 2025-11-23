@@ -1,0 +1,56 @@
+=== RELATÓRIO DISNEY+ ===
+
+1. Médias pelos Sites 
+A média dos filmes pelo IMDB é: 6.58 
+A média dos filmes pelo MetaScore é: 62.06 
+
+2. Médias do número de votos no IMDB 
+Média de votos: 79102 
+
+3. LÍNGUAS MAIS E MENOS USADAS:
+   Mais usadas:
+     - English: 851 vezes
+     - French: 34 vezes
+     - Spanish: 31 vezes
+   Menos usadas:
+     - Klingon: 1 vezes
+     - Bengali: 1 vezes
+     - Telugu: 1 vezes
+
+4. ATORES MAIS E MENOS FREQUENTES:
+   Mais frequentes:
+     - Clarence Nash: 31 filmes/séries
+     - Jim Cummings: 26 filmes/séries
+     - Pinto Colvig: 24 filmes/séries
+   Menos frequentes:
+     - Ginnifer Goodwin: 1 filmes/séries
+     - Jason Bateman: 1 filmes/séries
+     - Jenny Slate: 1 filmes/séries
+
+5. DIRETOR COM MAIS FILMES:
+   Wilfred Jackson: 19 filmes
+
+6. DIRETOR COM FILME MAIS POPULAR NO IMDB:
+   Irvin Kershner: nota 8.7
+
+7. DIRETOR COM FILME MAIS POPULAR NO METASCORE:
+   Norman Ferguson: nota 99
+
+8. ANO COM MAIS LANÇAMENTOS:
+   2019: 29 lançamentos
+
+9. PIORES SÉRIES:
+   Pior série no IMDB: Bizaardvark - nota 3.5
+   Nenhuma série com Metascore encontrada
+
+10. FILMES COM MÚLTIPLOS LANÇAMENTOS (REMAKES):
+   Aladdin: 2019, 1992
+   Alice in Wonderland: 1951, 2010
+   Frankenweenie: 2012, 1984
+   Freaky Friday: 1976, 2003, 2018
+   Lady and the Tramp: 2019, 1955
+   Pete's Dragon: 1977, 2016
+   Swiss Family Robinson: 1940, 1960
+   The Lion King: 2019, 1994
+   The Parent Trap: 1961, 1998
+   The Prince and the Pauper: 1962, 1990
